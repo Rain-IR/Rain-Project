@@ -1,0 +1,4 @@
+[submodule "paper"]
+	path = paper
+	url = git@gitlab.com:rain-ir/paper.git
+	branch = master
