@@ -2,3 +2,7 @@
 	path = paper
 	url = git@gitlab.com:rain-ir/paper.git
 	branch = master
+[submodule "rain-ir"]
+	path = rain-ir
+	url = git@gitlab.com:rain-ir/rain-ir.git
+	branch = master
