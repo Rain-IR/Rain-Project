@@ -6,3 +6,7 @@
 	path = rain-ir
 	url = git@gitlab.com:rain-ir/rain-ir.git
 	branch = master
+[submodule "rain-ast"]
+	path = rain-ast
+	url = git@gitlab.com:rain-ir/rain-ast.git
+	branch = master
